@@ -1,0 +1,6 @@
+export { default as DashboardAdmin } from './Dashboard.tsx'
+export { default as UserManage } from './UserManage'
+export { default as SettingsAdmin } from './Settings'
+export { default as ProfileAdmin } from './Profile'
+export { default as PatientManage } from './PatientManage'
+export { default as WorkSchedule } from './WorkSchedule'

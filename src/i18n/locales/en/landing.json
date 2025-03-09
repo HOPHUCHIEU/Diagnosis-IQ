@@ -1,0 +1,59 @@
+{
+  "header": {
+    "login": "Sign In",
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "FAQ": "FAQ",
+    "appointment": "Appointment",
+    "blog": "Blog",
+    "services": "Services",
+    "FAQ": "FAQ",
+    "register": "Register"
+  },
+  "homepage": {
+    "title": "THIS IS HOME PAGE"
+  },
+  "footer": {
+    "DN": "120 Hoang Minh Thao, Da Nang",
+    "Hotline": "Hotline: 0356241423",
+    "AI": "Diagnosis IQ: An intelligent clinical decision support system for automatic hospital management.",
+    "about": "About Diagnosis IQ"
+  },
+  "user": {
+    "profile": "Profile",
+    "history": "History",
+    "payment": "Payment",
+    "dashboard": "Dashboard"
+  },
+  "hero": {
+    "title": {
+      "make": "Make an appointment",
+      "easy": "easy",
+      "and": "and",
+      "fast": "fast"
+    },
+    "subtitle": "Checking your family health by professional team doctors with complete and modern facilities services."
+  },
+  "advantages": {
+    "title": "Our Advantages",
+    "items": {
+      "appointment": "Make an appointment",
+      "telemedicine": "Telemedicine",
+      "aiAssistant": "AI Health Assistant",
+      "dashboard": "Smart Clinical Dashboard"
+    }
+  },
+  "consultant": {
+    "title": "Consultant",
+    "subtitle": "Quick Diagnosis, Instant Booking!"
+  },
+  "quality": {
+    "title": {
+      "start": "The",
+      "highlight": "Best Quality",
+      "end": "Service For Your Family"
+    },
+    "description": "Our best team doctor with complete and modern facilities will keep you healthy or return you to health from sick."
+  }
+}
