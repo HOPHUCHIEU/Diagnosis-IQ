@@ -1,6 +1,6 @@
 import { memo, useEffect, useCallback } from 'react'
 import { animateScroll as scroll } from 'react-scroll'
-import Footer from './components/Landing/Footer'
+// import Footer from './components/Landing/Footer'
 import { useAppSelector } from '@/redux/store'
 import GoogleOneTap from '@/components/Auth/GoogleOneTap'
 import { Header } from './components/Landing/Header'
